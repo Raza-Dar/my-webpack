@@ -1,22 +1,22 @@
-# Webpack learning
-#https://blog.madewithlove.be/post/webpack-your-bags/
+#Webpack learning
+https://blog.madewithlove.be/post/webpack-your-bags/
 
-#how to run this project
+--- how to run this project
 
-clone this repository 
-
-===================
-
-run:
+clone this repository and run:
 
 npm install
 
-#set (.node_modules/.bin) path to your $PATH variable. 
-#So you don't need to type again & agina. (I don't know how you will do it.)
+//set (.node_modules/.bin) path to your $PATH variable. 
+//So you don't need to type again & agina. (I don't know how you will do it.)
 
 then run:
 
-webpack  #(if path is set) otherwise run:
+//(if path is set) 
+
+webpack  
+
+//otherwise run:
 
 ./node_modules/.bin/webpack
 
