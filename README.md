@@ -20,7 +20,9 @@ webpack
 
 ./node_modules/.bin/webpack
 
-and follow the rest of ReadMe.
+---------------------------------------------
+
+and follow the rest of this file or tutorial.
 
 
 https://blog.madewithlove.be/post/webpack-your-bags/
